@@ -10,5 +10,10 @@
     "source.organizeImports": true
   },
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "path-autocomplete.includeExtension": false,
+  "path-autocomplete.extensionOnImport": true,
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "editor.acceptSuggestionOnCommitCharacter": false
 }
