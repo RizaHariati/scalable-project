@@ -1,6 +1,7 @@
+// @ts-check
 import { RouterContext } from 'next/dist/shared/lib/router-context';
 import * as NextImage from 'next/image';
-
+import React from 'react';
 const BREAKPOINTS_INT = {
   xs: 375,
   sm: 600,
